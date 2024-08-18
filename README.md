@@ -19,6 +19,7 @@
 | [0007-reverse-integer](https://github.com/ismailnossam01/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ismailnossam01/LeetCode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/ismailnossam01/LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/ismailnossam01/LeetCode/tree/master/0067-add-binary) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -37,6 +38,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ismailnossam01/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/ismailnossam01/LeetCode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/ismailnossam01/LeetCode/tree/master/0067-add-binary) |
 ## String Matching
 |  |
 | ------- |
@@ -45,4 +47,12 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/ismailnossam01/LeetCode/tree/master/0035-search-insert-position) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/ismailnossam01/LeetCode/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/ismailnossam01/LeetCode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
