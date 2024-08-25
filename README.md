@@ -9,6 +9,7 @@
 | [0035-search-insert-position](https://github.com/ismailnossam01/LeetCode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/ismailnossam01/LeetCode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/ismailnossam01/LeetCode/tree/master/0066-plus-one) |
+| [2350-find-closest-number-to-zero](https://github.com/ismailnossam01/LeetCode/tree/master/2350-find-closest-number-to-zero) |
 ## Hash Table
 |  |
 | ------- |
