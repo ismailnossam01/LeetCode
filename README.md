@@ -23,6 +23,7 @@
 | [0009-palindrome-number](https://github.com/ismailnossam01/LeetCode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/ismailnossam01/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/ismailnossam01/LeetCode/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/ismailnossam01/LeetCode/tree/master/0069-sqrtx) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -51,6 +52,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/ismailnossam01/LeetCode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/ismailnossam01/LeetCode/tree/master/0069-sqrtx) |
 ## Bit Manipulation
 |  |
 | ------- |
