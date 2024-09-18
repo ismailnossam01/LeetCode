@@ -12,6 +12,7 @@
 | [0136-single-number](https://github.com/ismailnossam01/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/ismailnossam01/LeetCode/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/ismailnossam01/LeetCode/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/ismailnossam01/LeetCode/tree/master/0179-largest-number) |
 | [2350-find-closest-number-to-zero](https://github.com/ismailnossam01/LeetCode/tree/master/2350-find-closest-number-to-zero) |
 ## Hash Table
 |  |
@@ -46,6 +47,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ismailnossam01/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/ismailnossam01/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/ismailnossam01/LeetCode/tree/master/0067-add-binary) |
+| [0179-largest-number](https://github.com/ismailnossam01/LeetCode/tree/master/0179-largest-number) |
 ## String Matching
 |  |
 | ------- |
@@ -69,8 +71,13 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ismailnossam01/LeetCode/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/ismailnossam01/LeetCode/tree/master/0179-largest-number) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ismailnossam01/LeetCode/tree/master/0169-majority-element) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/ismailnossam01/LeetCode/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
