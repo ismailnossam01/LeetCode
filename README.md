@@ -13,6 +13,7 @@
 | [0137-single-number-ii](https://github.com/ismailnossam01/LeetCode/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/ismailnossam01/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/ismailnossam01/LeetCode/tree/master/0179-largest-number) |
+| [0260-single-number-iii](https://github.com/ismailnossam01/LeetCode/tree/master/0260-single-number-iii) |
 | [2350-find-closest-number-to-zero](https://github.com/ismailnossam01/LeetCode/tree/master/2350-find-closest-number-to-zero) |
 ## Hash Table
 |  |
@@ -63,6 +64,7 @@
 | [0067-add-binary](https://github.com/ismailnossam01/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/ismailnossam01/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/ismailnossam01/LeetCode/tree/master/0137-single-number-ii) |
+| [0260-single-number-iii](https://github.com/ismailnossam01/LeetCode/tree/master/0260-single-number-iii) |
 ## Simulation
 |  |
 | ------- |
