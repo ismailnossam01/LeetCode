@@ -28,6 +28,7 @@
 | [0066-plus-one](https://github.com/ismailnossam01/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/ismailnossam01/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/ismailnossam01/LeetCode/tree/master/0069-sqrtx) |
+| [0241-different-ways-to-add-parentheses](https://github.com/ismailnossam01/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -37,6 +38,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ismailnossam01/LeetCode/tree/master/0053-maximum-subarray) |
+| [0241-different-ways-to-add-parentheses](https://github.com/ismailnossam01/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 ## Two Pointers
 |  |
 | ------- |
@@ -49,6 +51,7 @@
 | [0058-length-of-last-word](https://github.com/ismailnossam01/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/ismailnossam01/LeetCode/tree/master/0067-add-binary) |
 | [0179-largest-number](https://github.com/ismailnossam01/LeetCode/tree/master/0179-largest-number) |
+| [0241-different-ways-to-add-parentheses](https://github.com/ismailnossam01/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 ## String Matching
 |  |
 | ------- |
@@ -82,4 +85,12 @@
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/ismailnossam01/LeetCode/tree/master/0179-largest-number) |
+## Recursion
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/ismailnossam01/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
+## Memoization
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/ismailnossam01/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
