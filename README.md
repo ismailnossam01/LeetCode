@@ -15,6 +15,7 @@
 | [0179-largest-number](https://github.com/ismailnossam01/LeetCode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/ismailnossam01/LeetCode/tree/master/0217-contains-duplicate) |
 | [0260-single-number-iii](https://github.com/ismailnossam01/LeetCode/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/ismailnossam01/LeetCode/tree/master/0268-missing-number) |
 | [2350-find-closest-number-to-zero](https://github.com/ismailnossam01/LeetCode/tree/master/2350-find-closest-number-to-zero) |
 ## Hash Table
 |  |
@@ -22,6 +23,7 @@
 | [0001-two-sum](https://github.com/ismailnossam01/LeetCode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/ismailnossam01/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ismailnossam01/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/ismailnossam01/LeetCode/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
@@ -31,6 +33,7 @@
 | [0067-add-binary](https://github.com/ismailnossam01/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/ismailnossam01/LeetCode/tree/master/0069-sqrtx) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ismailnossam01/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0268-missing-number](https://github.com/ismailnossam01/LeetCode/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -63,6 +66,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/ismailnossam01/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/ismailnossam01/LeetCode/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/ismailnossam01/LeetCode/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -70,6 +74,7 @@
 | [0136-single-number](https://github.com/ismailnossam01/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/ismailnossam01/LeetCode/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/ismailnossam01/LeetCode/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/ismailnossam01/LeetCode/tree/master/0268-missing-number) |
 ## Simulation
 |  |
 | ------- |
@@ -80,6 +85,7 @@
 | [0169-majority-element](https://github.com/ismailnossam01/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/ismailnossam01/LeetCode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/ismailnossam01/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/ismailnossam01/LeetCode/tree/master/0268-missing-number) |
 ## Counting
 |  |
 | ------- |
