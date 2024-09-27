@@ -9,6 +9,7 @@
 | [0035-search-insert-position](https://github.com/ismailnossam01/LeetCode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/ismailnossam01/LeetCode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/ismailnossam01/LeetCode/tree/master/0066-plus-one) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ismailnossam01/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/ismailnossam01/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/ismailnossam01/LeetCode/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/ismailnossam01/LeetCode/tree/master/0169-majority-element) |
@@ -45,6 +46,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ismailnossam01/LeetCode/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ismailnossam01/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ismailnossam01/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 ## Two Pointers
 |  |
