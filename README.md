@@ -114,6 +114,7 @@
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/ismailnossam01/LeetCode/tree/master/0386-lexicographical-numbers) |
+| [0988-flip-equivalent-binary-trees](https://github.com/ismailnossam01/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
 ## Trie
 |  |
 | ------- |
@@ -150,4 +151,12 @@
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/ismailnossam01/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Tree
+|  |
+| ------- |
+| [0988-flip-equivalent-binary-trees](https://github.com/ismailnossam01/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
+## Binary Tree
+|  |
+| ------- |
+| [0988-flip-equivalent-binary-trees](https://github.com/ismailnossam01/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
 <!---LeetCode Topics End-->
