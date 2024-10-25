@@ -15,6 +15,7 @@
 | [0169-majority-element](https://github.com/ismailnossam01/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/ismailnossam01/LeetCode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/ismailnossam01/LeetCode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/ismailnossam01/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0260-single-number-iii](https://github.com/ismailnossam01/LeetCode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/ismailnossam01/LeetCode/tree/master/0268-missing-number) |
 | [0729-my-calendar-i](https://github.com/ismailnossam01/LeetCode/tree/master/0729-my-calendar-i) |
@@ -26,6 +27,7 @@
 | [0001-two-sum](https://github.com/ismailnossam01/LeetCode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/ismailnossam01/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ismailnossam01/LeetCode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/ismailnossam01/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/ismailnossam01/LeetCode/tree/master/0268-missing-number) |
 ## Math
 |  |
@@ -159,4 +161,8 @@
 |  |
 | ------- |
 | [0988-flip-equivalent-binary-trees](https://github.com/ismailnossam01/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/ismailnossam01/LeetCode/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
