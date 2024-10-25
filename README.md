@@ -20,6 +20,7 @@
 | [0268-missing-number](https://github.com/ismailnossam01/LeetCode/tree/master/0268-missing-number) |
 | [0729-my-calendar-i](https://github.com/ismailnossam01/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/ismailnossam01/LeetCode/tree/master/0731-my-calendar-ii) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/ismailnossam01/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2350-find-closest-number-to-zero](https://github.com/ismailnossam01/LeetCode/tree/master/2350-find-closest-number-to-zero) |
 ## Hash Table
 |  |
@@ -64,6 +65,7 @@
 | [0179-largest-number](https://github.com/ismailnossam01/LeetCode/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/ismailnossam01/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ismailnossam01/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/ismailnossam01/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## String Matching
 |  |
 | ------- |
@@ -117,11 +119,13 @@
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/ismailnossam01/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0988-flip-equivalent-binary-trees](https://github.com/ismailnossam01/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/ismailnossam01/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Trie
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/ismailnossam01/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/ismailnossam01/LeetCode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/ismailnossam01/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Rolling Hash
 |  |
 | ------- |
