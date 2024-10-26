@@ -22,6 +22,7 @@
 | [0731-my-calendar-ii](https://github.com/ismailnossam01/LeetCode/tree/master/0731-my-calendar-ii) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ismailnossam01/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2350-find-closest-number-to-zero](https://github.com/ismailnossam01/LeetCode/tree/master/2350-find-closest-number-to-zero) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/ismailnossam01/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 ## Hash Table
 |  |
 | ------- |
@@ -120,6 +121,7 @@
 | [0386-lexicographical-numbers](https://github.com/ismailnossam01/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0988-flip-equivalent-binary-trees](https://github.com/ismailnossam01/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ismailnossam01/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/ismailnossam01/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 ## Trie
 |  |
 | ------- |
@@ -161,12 +163,18 @@
 |  |
 | ------- |
 | [0988-flip-equivalent-binary-trees](https://github.com/ismailnossam01/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/ismailnossam01/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 ## Binary Tree
 |  |
 | ------- |
 | [0988-flip-equivalent-binary-trees](https://github.com/ismailnossam01/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/ismailnossam01/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 ## Sliding Window
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/ismailnossam01/LeetCode/tree/master/0219-contains-duplicate-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/ismailnossam01/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 <!---LeetCode Topics End-->
