@@ -21,6 +21,7 @@
 | [0729-my-calendar-i](https://github.com/ismailnossam01/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/ismailnossam01/LeetCode/tree/master/0731-my-calendar-ii) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ismailnossam01/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/ismailnossam01/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2350-find-closest-number-to-zero](https://github.com/ismailnossam01/LeetCode/tree/master/2350-find-closest-number-to-zero) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/ismailnossam01/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 ## Hash Table
@@ -54,6 +55,7 @@
 | [0053-maximum-subarray](https://github.com/ismailnossam01/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ismailnossam01/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ismailnossam01/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/ismailnossam01/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Two Pointers
 |  |
 | ------- |
@@ -180,4 +182,8 @@
 |  |
 | ------- |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/ismailnossam01/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
+## Matrix
+|  |
+| ------- |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/ismailnossam01/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 <!---LeetCode Topics End-->
