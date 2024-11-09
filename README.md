@@ -99,6 +99,7 @@
 | [0137-single-number-ii](https://github.com/ismailnossam01/LeetCode/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/ismailnossam01/LeetCode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/ismailnossam01/LeetCode/tree/master/0268-missing-number) |
+| [3394-minimum-array-end](https://github.com/ismailnossam01/LeetCode/tree/master/3394-minimum-array-end) |
 ## Simulation
 |  |
 | ------- |
