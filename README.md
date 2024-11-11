@@ -26,6 +26,7 @@
 | [2350-find-closest-number-to-zero](https://github.com/ismailnossam01/LeetCode/tree/master/2350-find-closest-number-to-zero) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/ismailnossam01/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2586-longest-square-streak-in-an-array](https://github.com/ismailnossam01/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
+| [2716-prime-subtraction-operation](https://github.com/ismailnossam01/LeetCode/tree/master/2716-prime-subtraction-operation) |
 ## Hash Table
 |  |
 | ------- |
@@ -47,6 +48,7 @@
 | [0069-sqrtx](https://github.com/ismailnossam01/LeetCode/tree/master/0069-sqrtx) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ismailnossam01/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0268-missing-number](https://github.com/ismailnossam01/LeetCode/tree/master/0268-missing-number) |
+| [2716-prime-subtraction-operation](https://github.com/ismailnossam01/LeetCode/tree/master/2716-prime-subtraction-operation) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -93,6 +95,7 @@
 | [0729-my-calendar-i](https://github.com/ismailnossam01/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/ismailnossam01/LeetCode/tree/master/0731-my-calendar-ii) |
 | [2586-longest-square-streak-in-an-array](https://github.com/ismailnossam01/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
+| [2716-prime-subtraction-operation](https://github.com/ismailnossam01/LeetCode/tree/master/2716-prime-subtraction-operation) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -122,6 +125,7 @@
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/ismailnossam01/LeetCode/tree/master/0179-largest-number) |
+| [2716-prime-subtraction-operation](https://github.com/ismailnossam01/LeetCode/tree/master/2716-prime-subtraction-operation) |
 ## Recursion
 |  |
 | ------- |
@@ -203,4 +207,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ismailnossam01/LeetCode/tree/master/0020-valid-parentheses) |
+## Number Theory
+|  |
+| ------- |
+| [2716-prime-subtraction-operation](https://github.com/ismailnossam01/LeetCode/tree/master/2716-prime-subtraction-operation) |
 <!---LeetCode Topics End-->
