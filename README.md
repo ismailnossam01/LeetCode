@@ -89,6 +89,7 @@
 | [0214-shortest-palindrome](https://github.com/ismailnossam01/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ismailnossam01/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ismailnossam01/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/ismailnossam01/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/ismailnossam01/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## String Matching
 |  |
@@ -193,6 +194,7 @@
 |  |
 | ------- |
 | [0731-my-calendar-ii](https://github.com/ismailnossam01/LeetCode/tree/master/0731-my-calendar-ii) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/ismailnossam01/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 ## Linked List
 |  |
 | ------- |
