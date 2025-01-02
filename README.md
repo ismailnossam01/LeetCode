@@ -62,6 +62,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ismailnossam01/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/ismailnossam01/LeetCode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/ismailnossam01/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ismailnossam01/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -71,6 +72,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ismailnossam01/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ismailnossam01/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ismailnossam01/LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ismailnossam01/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -79,6 +81,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ismailnossam01/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/ismailnossam01/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/ismailnossam01/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/ismailnossam01/LeetCode/tree/master/0020-valid-parentheses) |
