@@ -26,6 +26,7 @@
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ismailnossam01/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/ismailnossam01/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2350-find-closest-number-to-zero](https://github.com/ismailnossam01/LeetCode/tree/master/2350-find-closest-number-to-zero) |
+| [2358-number-of-ways-to-split-array](https://github.com/ismailnossam01/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/ismailnossam01/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2586-longest-square-streak-in-an-array](https://github.com/ismailnossam01/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/ismailnossam01/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -204,6 +205,7 @@
 | ------- |
 | [0731-my-calendar-ii](https://github.com/ismailnossam01/LeetCode/tree/master/0731-my-calendar-ii) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/ismailnossam01/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2358-number-of-ways-to-split-array](https://github.com/ismailnossam01/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/ismailnossam01/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Linked List
 |  |
