@@ -35,6 +35,7 @@
 | [2691-count-vowel-strings-in-ranges](https://github.com/ismailnossam01/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/ismailnossam01/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2716-prime-subtraction-operation](https://github.com/ismailnossam01/LeetCode/tree/master/2716-prime-subtraction-operation) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/ismailnossam01/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -109,6 +110,7 @@
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ismailnossam01/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2465-shifting-letters-ii](https://github.com/ismailnossam01/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/ismailnossam01/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/ismailnossam01/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## String Matching
 |  |
 | ------- |
@@ -116,6 +118,7 @@
 | [0214-shortest-palindrome](https://github.com/ismailnossam01/LeetCode/tree/master/0214-shortest-palindrome) |
 | [1508-longest-happy-prefix](https://github.com/ismailnossam01/LeetCode/tree/master/1508-longest-happy-prefix) |
 | [1524-string-matching-in-an-array](https://github.com/ismailnossam01/LeetCode/tree/master/1524-string-matching-in-an-array) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/ismailnossam01/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -188,16 +191,19 @@
 | [0386-lexicographical-numbers](https://github.com/ismailnossam01/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/ismailnossam01/LeetCode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ismailnossam01/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/ismailnossam01/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Rolling Hash
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/ismailnossam01/LeetCode/tree/master/0214-shortest-palindrome) |
 | [1508-longest-happy-prefix](https://github.com/ismailnossam01/LeetCode/tree/master/1508-longest-happy-prefix) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/ismailnossam01/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/ismailnossam01/LeetCode/tree/master/0214-shortest-palindrome) |
 | [1508-longest-happy-prefix](https://github.com/ismailnossam01/LeetCode/tree/master/1508-longest-happy-prefix) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/ismailnossam01/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Design
 |  |
 | ------- |
