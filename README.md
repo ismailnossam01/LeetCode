@@ -22,6 +22,7 @@
 | [0268-missing-number](https://github.com/ismailnossam01/LeetCode/tree/master/0268-missing-number) |
 | [0729-my-calendar-i](https://github.com/ismailnossam01/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/ismailnossam01/LeetCode/tree/master/0731-my-calendar-ii) |
+| [0952-word-subsets](https://github.com/ismailnossam01/LeetCode/tree/master/0952-word-subsets) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ismailnossam01/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ismailnossam01/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1524-string-matching-in-an-array](https://github.com/ismailnossam01/LeetCode/tree/master/1524-string-matching-in-an-array) |
@@ -46,6 +47,7 @@
 | [0217-contains-duplicate](https://github.com/ismailnossam01/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ismailnossam01/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/ismailnossam01/LeetCode/tree/master/0268-missing-number) |
+| [0952-word-subsets](https://github.com/ismailnossam01/LeetCode/tree/master/0952-word-subsets) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/ismailnossam01/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ismailnossam01/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2586-longest-square-streak-in-an-array](https://github.com/ismailnossam01/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
@@ -103,6 +105,7 @@
 | [0214-shortest-palindrome](https://github.com/ismailnossam01/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ismailnossam01/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0647-palindromic-substrings](https://github.com/ismailnossam01/LeetCode/tree/master/0647-palindromic-substrings) |
+| [0952-word-subsets](https://github.com/ismailnossam01/LeetCode/tree/master/0952-word-subsets) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ismailnossam01/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1508-longest-happy-prefix](https://github.com/ismailnossam01/LeetCode/tree/master/1508-longest-happy-prefix) |
 | [1524-string-matching-in-an-array](https://github.com/ismailnossam01/LeetCode/tree/master/1524-string-matching-in-an-array) |
