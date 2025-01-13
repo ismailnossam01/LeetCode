@@ -24,6 +24,7 @@
 | [0729-my-calendar-i](https://github.com/ismailnossam01/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/ismailnossam01/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0952-word-subsets](https://github.com/ismailnossam01/LeetCode/tree/master/0952-word-subsets) |
+| [1046-max-consecutive-ones-iii](https://github.com/ismailnossam01/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ismailnossam01/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ismailnossam01/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1524-string-matching-in-an-array](https://github.com/ismailnossam01/LeetCode/tree/master/1524-string-matching-in-an-array) |
@@ -136,6 +137,7 @@
 | [0268-missing-number](https://github.com/ismailnossam01/LeetCode/tree/master/0268-missing-number) |
 | [0729-my-calendar-i](https://github.com/ismailnossam01/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/ismailnossam01/LeetCode/tree/master/0731-my-calendar-ii) |
+| [1046-max-consecutive-ones-iii](https://github.com/ismailnossam01/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/ismailnossam01/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2586-longest-square-streak-in-an-array](https://github.com/ismailnossam01/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2716-prime-subtraction-operation](https://github.com/ismailnossam01/LeetCode/tree/master/2716-prime-subtraction-operation) |
@@ -234,6 +236,7 @@
 |  |
 | ------- |
 | [0731-my-calendar-ii](https://github.com/ismailnossam01/LeetCode/tree/master/0731-my-calendar-ii) |
+| [1046-max-consecutive-ones-iii](https://github.com/ismailnossam01/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/ismailnossam01/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ismailnossam01/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ismailnossam01/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -268,6 +271,7 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/ismailnossam01/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [1046-max-consecutive-ones-iii](https://github.com/ismailnossam01/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 ## Breadth-First Search
 |  |
 | ------- |
