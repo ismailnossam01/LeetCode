@@ -53,6 +53,7 @@
 | [0217-contains-duplicate](https://github.com/ismailnossam01/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ismailnossam01/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/ismailnossam01/LeetCode/tree/master/0268-missing-number) |
+| [0424-longest-repeating-character-replacement](https://github.com/ismailnossam01/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-fruit-into-baskets](https://github.com/ismailnossam01/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/ismailnossam01/LeetCode/tree/master/0952-word-subsets) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/ismailnossam01/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -113,6 +114,7 @@
 | [0179-largest-number](https://github.com/ismailnossam01/LeetCode/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/ismailnossam01/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ismailnossam01/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0424-longest-repeating-character-replacement](https://github.com/ismailnossam01/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/ismailnossam01/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0952-word-subsets](https://github.com/ismailnossam01/LeetCode/tree/master/0952-word-subsets) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ismailnossam01/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -285,6 +287,7 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/ismailnossam01/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/ismailnossam01/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-fruit-into-baskets](https://github.com/ismailnossam01/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/ismailnossam01/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 ## Breadth-First Search
