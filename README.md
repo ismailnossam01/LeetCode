@@ -33,6 +33,7 @@
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ismailnossam01/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/ismailnossam01/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/ismailnossam01/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1876-map-of-highest-peak](https://github.com/ismailnossam01/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ismailnossam01/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2145-grid-game](https://github.com/ismailnossam01/LeetCode/tree/master/2145-grid-game) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/ismailnossam01/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -308,6 +309,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/ismailnossam01/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0407-trapping-rain-water-ii](https://github.com/ismailnossam01/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ismailnossam01/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1876-map-of-highest-peak](https://github.com/ismailnossam01/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/ismailnossam01/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/ismailnossam01/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Matrix
@@ -316,6 +318,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/ismailnossam01/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ismailnossam01/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ismailnossam01/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1876-map-of-highest-peak](https://github.com/ismailnossam01/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/ismailnossam01/LeetCode/tree/master/2145-grid-game) |
 | [2685-first-completely-painted-row-or-column](https://github.com/ismailnossam01/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/ismailnossam01/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
