@@ -26,6 +26,7 @@
 | [0731-my-calendar-ii](https://github.com/ismailnossam01/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0940-fruit-into-baskets](https://github.com/ismailnossam01/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/ismailnossam01/LeetCode/tree/master/0952-word-subsets) |
+| [0966-binary-subarrays-with-sum](https://github.com/ismailnossam01/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/ismailnossam01/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ismailnossam01/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ismailnossam01/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -60,6 +61,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/ismailnossam01/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-fruit-into-baskets](https://github.com/ismailnossam01/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/ismailnossam01/LeetCode/tree/master/0952-word-subsets) |
+| [0966-binary-subarrays-with-sum](https://github.com/ismailnossam01/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/ismailnossam01/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ismailnossam01/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2586-longest-square-streak-in-an-array](https://github.com/ismailnossam01/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
@@ -257,6 +259,7 @@
 |  |
 | ------- |
 | [0731-my-calendar-ii](https://github.com/ismailnossam01/LeetCode/tree/master/0731-my-calendar-ii) |
+| [0966-binary-subarrays-with-sum](https://github.com/ismailnossam01/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/ismailnossam01/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/ismailnossam01/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ismailnossam01/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -295,6 +298,7 @@
 | [0219-contains-duplicate-ii](https://github.com/ismailnossam01/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/ismailnossam01/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-fruit-into-baskets](https://github.com/ismailnossam01/LeetCode/tree/master/0940-fruit-into-baskets) |
+| [0966-binary-subarrays-with-sum](https://github.com/ismailnossam01/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/ismailnossam01/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 ## Breadth-First Search
 |  |
