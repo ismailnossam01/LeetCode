@@ -27,6 +27,7 @@
 | [0940-fruit-into-baskets](https://github.com/ismailnossam01/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/ismailnossam01/LeetCode/tree/master/0952-word-subsets) |
 | [0966-binary-subarrays-with-sum](https://github.com/ismailnossam01/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
+| [1034-subarrays-with-k-different-integers](https://github.com/ismailnossam01/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/ismailnossam01/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ismailnossam01/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ismailnossam01/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -63,6 +64,7 @@
 | [0940-fruit-into-baskets](https://github.com/ismailnossam01/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/ismailnossam01/LeetCode/tree/master/0952-word-subsets) |
 | [0966-binary-subarrays-with-sum](https://github.com/ismailnossam01/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
+| [1034-subarrays-with-k-different-integers](https://github.com/ismailnossam01/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/ismailnossam01/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/ismailnossam01/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ismailnossam01/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -192,6 +194,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ismailnossam01/LeetCode/tree/master/0169-majority-element) |
+| [1034-subarrays-with-k-different-integers](https://github.com/ismailnossam01/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/ismailnossam01/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/ismailnossam01/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/ismailnossam01/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -303,6 +306,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/ismailnossam01/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-fruit-into-baskets](https://github.com/ismailnossam01/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/ismailnossam01/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
+| [1034-subarrays-with-k-different-integers](https://github.com/ismailnossam01/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/ismailnossam01/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/ismailnossam01/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Breadth-First Search
