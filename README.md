@@ -232,6 +232,7 @@
 | [0101-symmetric-tree](https://github.com/ismailnossam01/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ismailnossam01/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/ismailnossam01/LeetCode/tree/master/0386-lexicographical-numbers) |
+| [0684-redundant-connection](https://github.com/ismailnossam01/LeetCode/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/ismailnossam01/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0988-flip-equivalent-binary-trees](https://github.com/ismailnossam01/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ismailnossam01/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -326,6 +327,7 @@
 | [0101-symmetric-tree](https://github.com/ismailnossam01/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ismailnossam01/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0407-trapping-rain-water-ii](https://github.com/ismailnossam01/LeetCode/tree/master/0407-trapping-rain-water-ii) |
+| [0684-redundant-connection](https://github.com/ismailnossam01/LeetCode/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/ismailnossam01/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ismailnossam01/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/ismailnossam01/LeetCode/tree/master/1876-map-of-highest-peak) |
@@ -359,6 +361,7 @@
 ## Graph
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/ismailnossam01/LeetCode/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/ismailnossam01/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ismailnossam01/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/ismailnossam01/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
@@ -384,5 +387,6 @@
 ## Union Find
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/ismailnossam01/LeetCode/tree/master/0684-redundant-connection) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ismailnossam01/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 <!---LeetCode Topics End-->
