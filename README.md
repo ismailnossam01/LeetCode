@@ -31,6 +31,7 @@
 | [0966-binary-subarrays-with-sum](https://github.com/ismailnossam01/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/ismailnossam01/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/ismailnossam01/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/ismailnossam01/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ismailnossam01/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ismailnossam01/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ismailnossam01/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -90,6 +91,7 @@
 | [0070-climbing-stairs](https://github.com/ismailnossam01/LeetCode/tree/master/0070-climbing-stairs) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ismailnossam01/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0268-missing-number](https://github.com/ismailnossam01/LeetCode/tree/master/0268-missing-number) |
+| [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/ismailnossam01/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [2716-prime-subtraction-operation](https://github.com/ismailnossam01/LeetCode/tree/master/2716-prime-subtraction-operation) |
 ## Divide and Conquer
 |  |
@@ -215,6 +217,7 @@
 | [0055-jump-game](https://github.com/ismailnossam01/LeetCode/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/ismailnossam01/LeetCode/tree/master/0179-largest-number) |
 | [0455-assign-cookies](https://github.com/ismailnossam01/LeetCode/tree/master/0455-assign-cookies) |
+| [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/ismailnossam01/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/ismailnossam01/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2509-minimize-xor](https://github.com/ismailnossam01/LeetCode/tree/master/2509-minimize-xor) |
 | [2716-prime-subtraction-operation](https://github.com/ismailnossam01/LeetCode/tree/master/2716-prime-subtraction-operation) |
