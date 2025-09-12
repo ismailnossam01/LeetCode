@@ -400,4 +400,8 @@
 | ------- |
 | [0684-redundant-connection](https://github.com/ismailnossam01/LeetCode/tree/master/0684-redundant-connection) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ismailnossam01/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/ismailnossam01/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
